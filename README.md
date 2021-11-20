@@ -1,3 +1,3 @@
 ### How to reach me: kokorinv19@gmail.com
 
-[![codewars](https://www.codewars.com/users/slavakokorin/badges/micro)](https://www.codewars.com/users/slavakokorin/badges/micro)
+[![codewars](https://www.codewars.com/users/slavakokorin/badges/micro)](https://www.codewars.com/users/slavakokorin)
